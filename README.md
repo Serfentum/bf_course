@@ -5,6 +5,7 @@
 # Дополнительные материалы
 * [отличное введение в Computer Science на начальном уровне](https://csfieldguide.org.nz/en/chapters/introduction/)
 * [краткое введение в программирование](https://en.wikiversity.org/wiki/Introduction_to_Programming)
+* [PEP 8](https://www.python.org/dev/peps/pep-0008/)
 
 
 # Онлайн-курсы
