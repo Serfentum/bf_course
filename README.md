@@ -1,36 +1,53 @@
 # Python Course
 
 
-
-# Дополнительные материалы
-* [отличное введение в Computer Science на начальном уровне](https://csfieldguide.org.nz/en/chapters/introduction/)
-* [краткое введение в программирование](https://en.wikiversity.org/wiki/Introduction_to_Programming)
-* [PEP 8](https://www.python.org/dev/peps/pep-0008/)
-
-
-# Онлайн-курсы
-* [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python/home/welcome) - отличное введение в питон от доктора Чака - питон для самых маленьких
-* [Python Data Structures](https://www.coursera.org/learn/python-data/home/welcome) - продолжение предыдущего курса
-* [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data/home/welcome) - следующая часть
-* [Using Databases with Python](https://www.coursera.org/learn/python-databases/home/welcome) - финальная часть
-* [Biology Meets Programming: Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics/home/welcome) - вводный Певзнеровский курс по программированию в биоинфе
-* [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2016/course/) - хорошее введение в CS на питоне
-* [Introduction to Computational Thinking and Data Science](https://courses.edx.org/courses/course-v1:MITx+6.00.2x_6+3T2016/course/) - продолжение предыдущего курса
-* [CS50's Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) - годный курс-введение в CS, на С
-* [Python: основы и применение](https://stepik.org/course/512/syllabus) - следующий курс по питону на стэпике
-* [Using Python for Research](https://courses.edx.org/courses/course-v1:HarvardX+PH526x+2T2018/course/) - питон для научных целей
-* [Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+2T2017/course/) - первый в линейке курсов по питону для Data Science
-* [LAFF: Linear Algebra - Foundations to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.05x+1T2017/course/) - линейная алгебра (всегда пригодится)
-* [Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_4+1T2017/course/) - теория вероятностей (также полезно)
-
-
-# Интерактивные ресурсы
-* [pythontutor](http://www.pythontutor.com/visualize.html) - визуализатор питона (подходит до модулей и IO)
-* [визуализация машины Тьюринга от гугла](https://www.google.com/doodles/alan-turings-100th-birthday)
-* [визуализация алгоритмов сортировки](https://www.toptal.com/developers/sorting-algorithms)
-
-
-# Книги
+# Программа курса
+* 1-ое занятие
+    * bash и наиболее часто используемые утилиты
+    * git
+    * обзор питона, арифметика, условия
+* 2-ое занятие
+	* списки и кортежи
+	* строки
+	* сэты
+	* циклы
+* 3-е занятие
+	* словари
+	* функции
+	* измерение скорости выполнения кода
+* 4-ое занятие
+	* проверочная
+	* ответы на вопросы
+* 5-ое занятие
+	* типы строк
+	* распаковка
+	* comprehensions
+	* дебаггинг
+	* линейный и бинарный поиски
+* 6-ое занятие
+	* IO
+	* модули
+	* графы
+* 7-ое занятие
+	* обзор Biopython
+	* работа с последовательностями в Biopython
+	* глобальное выравнивание
+* 8-ое занятие
+	* функциональное программирование
+	* генераторы
+	* itertools
+* 9-ое занятие
+	* визуализация
+* 10-ое занятие
+	* проверочная
+* 11-ое занятие
+	* сортировка
+	* рандом
+	* симуляция
+* 12-ое занятие
+    * работа с ошибками
+	* регулярные выражения
+* Занятие на выбор – либо презентации от вас по интересующим вас модулям, либо проходим новый материал как раньше
 
 
 # Коммуникация
@@ -64,7 +81,7 @@ path_to_notebook.ipynb`
     часть из них со звёздочкой - их выполнение не обязательно для прохождения курса,
     баллы за них начисляются сверху (то есть выполнив вообще все задания,
     вы получите больше 100%)
-1. Обычно на выполнение дз даётся 2 недели, тогда вы получаете полные баллы,
+1. Обычно на выполнение дз даётся 1 неделя, тогда вы получаете полные баллы,
  после этого можно сдать, но число баллов будет в 2 раза меньше.
  Задачки со звёздочкой можно присылать когда угодно, баллы за них не теряются
 1. Коммитьте домашки (с комментами!)) в ваши репозитории, а я там их посмотрю
@@ -78,6 +95,41 @@ path_to_notebook.ipynb`
 перейдём к биоинформатическим задачам
 
 
+# Дополнительные материалы
+* [отличное введение в Computer Science на начальном уровне](https://csfieldguide.org.nz/en/chapters/introduction/)
+* [краткое введение в программирование](https://en.wikiversity.org/wiki/Introduction_to_Programming)
+* [PEP 8](https://www.python.org/dev/peps/pep-0008/)
+
+
+# Онлайн-курсы
+* [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python/home/welcome) - отличное введение в питон от доктора Чака - питон для самых маленьких
+* [Python Data Structures](https://www.coursera.org/learn/python-data/home/welcome) - продолжение предыдущего курса
+* [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data/home/welcome) - следующая часть
+* [Using Databases with Python](https://www.coursera.org/learn/python-databases/home/welcome) - финальная часть
+* [Biology Meets Programming: Bioinformatics for Beginners](https://www.coursera.org/learn/bioinformatics/home/welcome) - вводный Певзнеровский курс по программированию в биоинфе
+* [Introduction to Computer Science and Programming Using Python](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2016/course/) - хорошее введение в CS на питоне
+* [Introduction to Computational Thinking and Data Science](https://courses.edx.org/courses/course-v1:MITx+6.00.2x_6+3T2016/course/) - продолжение предыдущего курса
+* [CS50's Introduction to Computer Science](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/) - годный курс-введение в CS, на С
+* [Python: основы и применение](https://stepik.org/course/512/syllabus) - следующий курс по питону на стэпике
+* [Using Python for Research](https://courses.edx.org/courses/course-v1:HarvardX+PH526x+2T2018/course/) - питон для научных целей
+* [Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+2T2017/course/) - первый в линейке курсов по питону для Data Science
+* [LAFF: Linear Algebra - Foundations to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.05x+1T2017/course/) - линейная алгебра (всегда пригодится)
+* [Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_4+1T2017/course/) - теория вероятностей (также полезно)
+
+
+# Интерактивные ресурсы
+* [pythontutor](http://www.pythontutor.com/visualize.html) - визуализатор питона (подходит до модулей и IO)
+* [визуализация машины Тьюринга от гугла](https://www.google.com/doodles/alan-turings-100th-birthday)
+* [визуализация алгоритмов сортировки](https://www.toptal.com/developers/sorting-algorithms)
+
+
+# Книги
+* A Byte of Python - Swaroop Chitlur
+* Learning Python - Mark Lootz
+* Python for Data Analysis - Wes McKinney
+
+
+
 # Обратная связь
 У меня не так много опыта в преподавании - если вам что-то не нравится в
 уроках, оставляйте пожелания сразу после занятий в ответах на опросы (один опрос на одно полное занятие)
@@ -85,7 +137,7 @@ path_to_notebook.ipynb`
 После открывания можно указать имя (необязательно), далее нужно вписать ответ,
 нажать submit, а потом finish справа внизу
 
-Если всё устраивает, тоже пишите, что устраивает)
+Если всё устраивает, тоже пишите что устраивает)
 1. [1-ое занятие](https://PollEv.com/surveys/OjITBi5kSIAUJIJIdi5cT/respond)
 1. [2-ое занятие](https://PollEv.com/surveys/JaVAQfAT7DpbGG3SnH8os/respond)
 1. [3-е занятие](https://PollEv.com/surveys/i0e07ckq0AZcf8l84HUAR/respond)
