@@ -18,7 +18,7 @@
 # Интеграция Pycharm с github
 * [гайд от Pycharm](https://www.jetbrains.com/help/pycharm/github.html)
 * [альтернативный гайд](https://www.datasciencelearner.com/integrate-github-with-pycharm/)
-* [мой гайд - оставляйте комменты в доке, если знаете как улучшить](https://docs.google.com/document/d/138Ax0bh_jpKMua83-B78jPKkrZaEjuUHKJDFhJWCltU/edit?usp=sharing)
+* [мой гайд - оставляйте комменты в доке, если что-то непонятно или знаете как улучшить](https://docs.google.com/document/d/138Ax0bh_jpKMua83-B78jPKkrZaEjuUHKJDFhJWCltU/edit?usp=sharing)
 
 
 # Задания
