@@ -18,6 +18,12 @@
 * [cprofile](https://python-scripts.com/cprofile-code-profiling)
 
 
+# Заданиe на следующий урок
+Посмотреть видео по list comprehension'ам - [один](https://stepik.org/lesson/3368/step/8?unit=951),
+[два](https://stepik.org/lesson/3368/step/12?unit=951),
+[три](https://stepik.org/lesson/3368/step/13?unit=951)
+
+
 # Задания
 * Создайте пустой словарь, заполните его элементами, удалите часть элементов,
 обратитесь к нескольким элементам и сделайте с ними какое-нибудь действие

@@ -18,6 +18,11 @@
 * [простые примеры comprehension'ов](https://www.geeksforgeeks.org/comprehensions-in-python/)
 
 
+# Задание на следующий урок
+Посмотреть уроки по [работе с файлами](https://stepik.org/lesson/3363/step/1?unit=1135)
+и [модулями](https://stepik.org/lesson/3377/step/1?unit=960)
+
+
 # Задания
 * Создайте 3 тэмлэйта (возьмите .format() или f-строки), используя
 побольше возможностей (padding, округление)  и заполните их пару раз
