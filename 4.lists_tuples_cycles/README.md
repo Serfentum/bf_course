@@ -39,7 +39,6 @@ Hi, everyone!
 list1 = [1, 2, 3]
 list2 = [-3, 3, 13]
 # your code
-# Result:
 [-2, 5, 16]
 ```
 (12 баллов)
