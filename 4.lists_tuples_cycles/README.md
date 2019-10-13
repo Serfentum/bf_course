@@ -9,8 +9,8 @@
 
 
 # Заданиe на следующий урок
-Посмотреть урок по [словарям](https://stepik.org/lesson/3373/step/1?unit=956)
-в курсе по питону
+Посмотреть уроки по [словарям](https://stepik.org/lesson/3373/step/1?unit=956)
+и по [строкам](https://stepik.org/lesson/3367/step/1?unit=950) в курсе по питону
 
 
 # Задания
@@ -25,7 +25,6 @@
 ```python
 friends = ['Asya', 'Lena', ..., 'Veta']
 # your code
-# Result:
 Hi, Asya
 Hi, Lena
 ...
