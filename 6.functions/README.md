@@ -1,12 +1,8 @@
-# Dictionaries, hashing and functions
-Модуль о словарях, их устройстве и функциях
+# Functions
+Модуль о функциях
 
 
 # Источники информации
-* [Гайд по словарям](https://www.python-course.eu/python3_dictionaries.php)
-* [Методы словарей](https://www.tutorialspoint.com/python3/python_dictionary.htm)
-* [Официальная документация по словарям](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
-* [Хороший пост по хэшам](https://www.asmeurer.com/blog/posts/what-happens-when-you-mess-with-hashing-in-python/)
 * [Туториал по функциям](https://www.digitalocean.com/community/tutorials/how-to-define-functions-in-python-3)
 * [Ещё один туториал по функциям](https://www.python-course.eu/python3_functions.php)
 * [Документация функций](https://www.datacamp.com/community/tutorials/docstrings-python)
@@ -25,12 +21,6 @@
 
 
 # Задания
-* Создайте пустой словарь, заполните его элементами, удалите часть элементов,
-обратитесь к нескольким элементам и сделайте с ними какое-нибудь действие
-(5 баллов)
-* Проитерируйтесь по заданному вами словарю и выведите его ключи и элементы
-(какой способ кажется вам лучшим?)
-(5 баллов * число способов)
 * *Сделайте функцию, принимающую лист и возвращающую выпрямленный лист
 (исходный не должен был измениться):
 ```python

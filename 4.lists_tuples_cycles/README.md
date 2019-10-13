@@ -1,24 +1,16 @@
-# Lists, tuples, strings, sets and cycles
+# Lists, tuples and cycles
 Модуль о коллекциях, строках и циклах
 
 
 # Источники информации
 * [Питоновские коллекции](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
 * [Отрывок книги Jake VanderPlas по коллекциям](https://jakevdp.github.io/WhirlwindTourOfPython/06-built-in-data-structures.html)
-* [Newline characters](https://www.loginradius.com/engineering/eol-end-of-line-or-newline-characters/)
-* [ASCII кодировка](https://ru.wikipedia.org/wiki/ASCII)
-* [Чаще используемая сейчас кодировка UTF-8](https://ru.wikipedia.org/wiki/UTF-8)
-* [Гайд по строкам](https://realpython.com/python-strings/)
-* [Сэты](https://python-scripts.com/sets)
-* [И ещё сэты](https://pythonworld.ru/tipy-dannyx-v-python/mnozhestva-set-i-frozenset.html)
-* [Гайд о строках на tutorialspoint](https://www.tutorialspoint.com/python3/python_strings.htm)
-* [Строковые методы](https://www.quackit.com/python/reference/python_3_string_methods.cfm)
 * [Документация по инструментам управления потоком](https://docs.python.org/3/tutorial/controlflow.html)
 
 
 # Заданиe на следующий урок
-Посмотреть уроки по [словарям](https://stepik.org/lesson/3373/step/1?unit=956)
-и [функциям](https://stepik.org/lesson/3372/step/1?unit=955) в курсе по питону
+Посмотреть урок по [словарям](https://stepik.org/lesson/3373/step/1?unit=956)
+в курсе по питону
 
 
 # Задания
