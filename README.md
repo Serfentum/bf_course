@@ -103,6 +103,7 @@ path_to_notebook.ipynb`
 * [отличное введение в Computer Science на начальном уровне](https://csfieldguide.org.nz/en/chapters/introduction/)
 * [краткое введение в программирование](https://en.wikiversity.org/wiki/Introduction_to_Programming)
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/)
+* [Короткий набор стилевых моментов](https://docs.google.com/document/d/1m09ujGp8xYqyxaU6ect5vQj0suMGWQJS1v8lTB2xoNo/edit?usp=sharing)
 
 
 # Онлайн-курсы
