@@ -7,6 +7,9 @@
 * [встроенные питоновские типы](https://docs.python.org/3/library/stdtypes.html)
 * [условия](https://www.w3schools.com/python/python_conditions.asp)
 * [то же самое другими словами](https://realpython.com/python-conditional-statements/#conditional-expressions-pythons-ternary-operator)
+* [операции с битами](https://wiki.python.org/moin/BitwiseOperators)
+* [примеры битовых операций](https://www.tutorialspoint.com/python3/bitwise_operators_example.htm)
+* [небольшой пример с bitmask](https://tutorialedge.net/compsci/bit-manipulation-for-beginners/)
 
 
 # Задание на следующий урок
