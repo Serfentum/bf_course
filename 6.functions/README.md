@@ -7,10 +7,12 @@
 * [Ещё один туториал по функциям](https://www.python-course.eu/python3_functions.php)
 * [Документация функций](https://www.datacamp.com/community/tutorials/docstrings-python)
 * [Ещё гайд по документации функций](https://realpython.com/documenting-python-code/)
-* [официальное предложение по докстрингам](https://www.python.org/dev/peps/pep-0257/)
+* [Официальное предложение по докстрингам](https://www.python.org/dev/peps/pep-0257/)
+* [Статья о монолитной организации приложений](https://en.wikipedia.org/wiki/Monolithic_application)
+* [Статья о противоположности предыдущему - декомпозиции](https://en.wikipedia.org/wiki/Decomposition_(computer_science))
 * [timeit](https://docs.python.org/3.7/library/timeit.html)
-* [о профилировании](https://habr.com/en/company/mailru/blog/201594/)
-* [как работает профайлер](https://hackernoon.com/how-profilers-work-1826163e1bbc)
+* [О профилировании](https://habr.com/en/company/mailru/blog/201594/)
+* [Как работает профайлер](https://hackernoon.com/how-profilers-work-1826163e1bbc)
 * [cprofile](https://python-scripts.com/cprofile-code-profiling)
 
 
