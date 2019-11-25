@@ -11,6 +11,7 @@
 * [bokeh](https://docs.bokeh.org/en/latest/index.html)
 * [folium](https://python-visualization.github.io/folium/)
 * [статья об использовании folium'а](https://proglib.io/p/python-web-map/)
+* [аналог ggplot2](https://github.com/yhat/ggpy)
 
 
 # Задания
