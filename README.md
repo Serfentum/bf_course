@@ -120,6 +120,7 @@ path_to_notebook.ipynb`
 * [Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+2T2017/course/) - первый в линейке курсов по питону для Data Science
 * [LAFF: Linear Algebra - Foundations to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.05x+1T2017/course/) - линейная алгебра (всегда пригодится)
 * [Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_4+1T2017/course/) - теория вероятностей (также полезно)
+* [курс по визуализации вообще](https://www.coursera.org/learn/datavisualization/home/welcome)
 
 
 # Интерактивные ресурсы
@@ -132,6 +133,7 @@ path_to_notebook.ipynb`
 * A Byte of Python - Swaroop Chitlur
 * Learning Python - Mark Lootz
 * Python for Data Analysis - Wes McKinney
+* Mastering Python Data Visualization - Kirthi Raman
 
 
 # Обратная связь
