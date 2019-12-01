@@ -33,17 +33,17 @@
 	* работа с последовательностями в Biopython
 	* глобальное выравнивание
 * 8-ое занятие
+	* визуализация
+* 9-ое занятие
+    * эрреи
+    * рандом
+    * введение в симуляции
+* 10-ое занятие
+    * презентация по визуализациям
+* 11-ое занятие
 	* функциональное программирование
 	* генераторы
 	* itertools
-* 9-ое занятие
-	* визуализация
-* 10-ое занятие
-	* проверочная
-* 11-ое занятие
-	* сортировка
-	* рандом
-	* симуляция
 * 12-ое занятие
     * работа с ошибками
 	* регулярные выражения
@@ -120,7 +120,7 @@ path_to_notebook.ipynb`
 * [Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+2T2017/course/) - первый в линейке курсов по питону для Data Science
 * [LAFF: Linear Algebra - Foundations to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.05x+1T2017/course/) - линейная алгебра (всегда пригодится)
 * [Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_4+1T2017/course/) - теория вероятностей (также полезно)
-* [курс по визуализации вообще](https://www.coursera.org/learn/datavisualization/home/welcome)
+* [Data Visualization](https://www.coursera.org/learn/datavisualization/home/welcome)
 
 
 # Интерактивные ресурсы
