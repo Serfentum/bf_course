@@ -3,6 +3,7 @@
 
 
 # Источники информации
+* [numpy](https://numpy.org/)
 * [об эрреях](https://realpython.com/numpy-array-programming/)
 * [сравнение эффективности операций в питоне и нампае](https://realpython.com/numpy-tensorflow-performance/)
 * [рандом и псевдорандом](https://www.howtogeek.com/183051/htg-explains-how-computers-generate-random-numbers/)
