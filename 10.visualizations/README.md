@@ -11,6 +11,8 @@
 * [folium](https://python-visualization.github.io/folium/)
 * [статья об использовании folium'а](https://proglib.io/p/python-web-map/)
 * [аналог ggplot2](https://github.com/yhat/ggpy)
+* папка plot_examples, сделанная Катей Яковлевой, Аней Глушкевич, Колей Куреевым,
+Олей Мазур, Димой Биба, Настей Охтиенко, Лолитой Алексеевой
 
 
 # Задания
