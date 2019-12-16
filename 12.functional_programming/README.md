@@ -14,6 +14,7 @@
 * [официальная документация по itertools](https://docs.python.org/3/library/itertools.html)
 * [ещё о функциях в itertools](https://pythonworld.ru/moduli/modul-itertools.html)
 * [гайд по itertools](https://realpython.com/python-itertools/)
+* [размышления о причинах нераспространённости функциональных языков](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
 
 
 # Задания

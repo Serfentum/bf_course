@@ -103,7 +103,8 @@ path_to_notebook.ipynb`
 * [отличное введение в Computer Science на начальном уровне](https://csfieldguide.org.nz/en/chapters/introduction/)
 * [краткое введение в программирование](https://en.wikiversity.org/wiki/Introduction_to_Programming)
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/)
-* [Короткий набор стилевых моментов](https://docs.google.com/document/d/1m09ujGp8xYqyxaU6ect5vQj0suMGWQJS1v8lTB2xoNo/edit?usp=sharing)
+* [короткий набор стилевых моментов](https://docs.google.com/document/d/1m09ujGp8xYqyxaU6ect5vQj0suMGWQJS1v8lTB2xoNo/edit?usp=sharing)
+* [история развития вычислительной техники](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8)
 
 
 # Онлайн-курсы
