@@ -1,8 +1,6 @@
 # numpy & pandas
 Модуль по нампаю и пандасу
 
-Будут добавляться ссылки и домашки после следующего занятия!
-
 
 # Источники информации
 * [документация numpy](https://numpy.org/doc/)
@@ -14,6 +12,9 @@
 * [об индексах датафрэймов](https://towardsdatascience.com/pandas-index-explained-b131beaf6f7b)
 * [визуализация reshape, ravel и stack'ов](https://towardsdatascience.com/reshaping-numpy-arrays-in-python-a-step-by-step-pictorial-tutorial-aed5f471cf0b)
 * [работа с файлами больше чем оперативная память](https://stackoverflow.com/questions/25962114/how-to-read-a-6-gb-csv-file-with-pandas)
+* [иерархия типов numpy](https://docs.scipy.org/doc/numpy/reference/arrays.scalars.html)
+* [try vs if](https://stackoverflow.com/questions/1835756/using-try-vs-if-in-python)
+* [типы join'ов](https://datacarpentry.org/python-ecology-lesson/05-merging-data/index.html)
 
 
 # Задания
