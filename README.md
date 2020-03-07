@@ -132,6 +132,9 @@ path_to_notebook.ipynb`
 * [визуализация алгоритмов сортировки](https://www.toptal.com/developers/sorting-algorithms)
 
 
+# Code games
+* [Hackerrank](https://www.hackerrank.com/)
+
 # Книги
 * A Byte of Python - Swaroop Chitlur
 * Learning Python - Mark Lootz
