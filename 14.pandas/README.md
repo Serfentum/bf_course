@@ -15,6 +15,7 @@
 * [иерархия типов numpy](https://docs.scipy.org/doc/numpy/reference/arrays.scalars.html)
 * [try vs if](https://stackoverflow.com/questions/1835756/using-try-vs-if-in-python)
 * [типы join'ов](https://datacarpentry.org/python-ecology-lesson/05-merging-data/index.html)
+* [pivot](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.pivot_table.html) и [melt](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.melt.html) - мы их не проходили, но при трансформации данных, они могут быть очень полезны
 
 
 # Задания
