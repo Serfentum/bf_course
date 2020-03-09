@@ -27,4 +27,4 @@
     * колонки pos, reads_all, mismatches, deletions, insertions
 
 (5 баллов)
-* Проведите [Explorative Data Analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis) знаменитого датасэта [титаника](https://www.kaggle.com/c/titanic/overview) (или какого-нибудь другого, если вам скушно с Титаником) (15 баллов)
+* Проведите [Explorative Data Analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis) знаменитого датасэта [титаника](https://www.kaggle.com/c/titanic/overview) (или какого-нибудь другого, если вам скушно с Титаником). Нужны корреляции, графики распределений (25 баллов)
