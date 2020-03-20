@@ -46,8 +46,28 @@
 	* itertools
 ---
 * 11-ое занятие
-    * работа с ошибками
+    * объектно-ориентированное программирование
 	* регулярные выражения
+* 12-ое занятие
+    * продолжение numpy
+    * pandas
+* 13-ое занятие
+    * re
+* 14-ое занятие
+    * работа с файлами - glob, os и pathlib
+* 15-ое занятие
+    * работа с БД в питоне
+* 16-ое занятие
+    * методология разработки
+argparse, colorama
+Сборка генома с помощью графов де Брюйна
+Симуляции с клеточными автоматами, imageio
+Кодировка
+Интернет, парсинг html
+Алгоритмы поиска пути
+selenium
+subprocess
+Делаем нейронную сеть
 
 
 
@@ -140,6 +160,7 @@ path_to_notebook.ipynb`
 * Learning Python - Mark Lootz
 * Python for Data Analysis - Wes McKinney
 * Mastering Python Data Visualization - Kirthi Raman
+* Scrum the art of doing twice the work in half the time - Jeff Sutherland
 
 
 # Обратная связь
