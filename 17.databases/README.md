@@ -11,6 +11,8 @@
 * [браузер для sqlite](https://sqlitebrowser.org/dl/)
 * [туториал по sqlite](https://www.sqlitetutorial.net/)
 * [foreign keys](https://www.sqlitetutorial.net/sqlite-foreign-key/)
+* [критика обычного представления join'ов](https://habr.com/ru/post/448072/)
+* [возможный вариант визуализации join'ов](https://habr.com/ru/post/450528/)
 * [об индексах](https://www.sqlitetutorial.net/sqlite-index/)
 * [генератор схем бд](https://dbdiagram.io/home)
 
