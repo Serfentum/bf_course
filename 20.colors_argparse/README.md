@@ -6,6 +6,7 @@
 * [объяснение color code'ов с небольшой табличкой цветов](http://jafrog.com/2013/11/23/colors-in-terminal.html)
 * [больше о цветах в терминале](https://opensource.com/article/19/9/linux-terminal-colors)
 * [вика об escape code'ах с большой табличкой цветов](https://en.wikipedia.org/wiki/ANSI_escape_code)
+* [colorful - по сути расширенная coloram'а](https://github.com/timofurrer/colorful)
 * [документация coloram'ы](https://pypi.org/project/colorama/)
 * [отчасти альтернатива colorama - termcolor](https://pypi.org/project/termcolor/)
 * [о цветах в питоне на сайте с забавным названием devdungeon](https://www.devdungeon.com/content/colorize-terminal-output-python)

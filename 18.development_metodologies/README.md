@@ -6,6 +6,7 @@
 * [о методологиях на хабре](https://habr.com/ru/company/edison/blog/269789/)
 * [плюсы и минусы agile'а](https://geekbrains.ru/posts/methodologies_agile)
 * [книжка по scrum'у](https://www.amazon.com/Scrum-Doing-Twice-Work-Half/dp/038534645X)
+* [сайт для создания интерактивных досок - многим нравится)](https://trello.com)
 
 
 # Задания

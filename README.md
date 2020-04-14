@@ -141,6 +141,7 @@ path_to_notebook.ipynb`
 * [короткий набор стилевых моментов](https://docs.google.com/document/d/1m09ujGp8xYqyxaU6ect5vQj0suMGWQJS1v8lTB2xoNo/edit?usp=sharing)
 * [история развития вычислительной техники](https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B2%D1%8B%D1%87%D0%B8%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9_%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8)
 * [перечень антипаттернов в питоне](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
+* [не знаю как точно описать это видео](https://www.youtube.com/watch?v=PUv66718DII)
 
 
 # Онлайн-курсы
@@ -158,6 +159,7 @@ path_to_notebook.ipynb`
 * [LAFF: Linear Algebra - Foundations to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.05x+1T2017/course/) - линейная алгебра (всегда пригодится)
 * [Introduction to Probability - The Science of Uncertainty](https://courses.edx.org/courses/course-v1:MITx+6.041x_4+1T2017/course/) - теория вероятностей (также полезно)
 * [Data Visualization](https://www.coursera.org/learn/datavisualization/home/welcome)
+* [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history)
 
 
 # Интерактивные ресурсы
@@ -166,8 +168,15 @@ path_to_notebook.ipynb`
 * [визуализация алгоритмов сортировки](https://www.toptal.com/developers/sorting-algorithms)
 
 
-# Code games
+# Игровые ресурсы
+Некоторые из них помимо тренировки также могут помочь в трудоустройстве
+или дают призы за высокий результат)
+* [codewars](https://www.codewars.com/)
+* [check io](https://checkio.org/)
 * [Hackerrank](https://www.hackerrank.com/)
+* [codingame](https://www.codingame.com)
+* [codeforces](https://codeforces.com/)
+
 
 # Книги
 * A Byte of Python - Swaroop Chitlur
