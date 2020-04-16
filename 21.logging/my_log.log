@@ -1,0 +1,22 @@
+2020-04-17 00:25:07 from test.py with INFO Starting work...
+2020-04-17 00:25:07 from test.py with DEBUG i is 0
+2020-04-17 00:25:07 from test.py with DEBUG summa is 0
+2020-04-17 00:25:07 from test.py with DEBUG i is 1
+2020-04-17 00:25:07 from test.py with DEBUG summa is 1
+2020-04-17 00:25:07 from test.py with DEBUG i is 2
+2020-04-17 00:25:07 from test.py with DEBUG summa is 3
+2020-04-17 00:25:07 from test.py with DEBUG i is 3
+2020-04-17 00:25:07 from test.py with DEBUG summa is 6
+2020-04-17 00:25:07 from test.py with DEBUG i is 4
+2020-04-17 00:25:07 from test.py with DEBUG summa is 10
+2020-04-17 00:25:07 from test.py with DEBUG i is 5
+2020-04-17 00:25:07 from test.py with DEBUG summa is 15
+2020-04-17 00:25:07 from test.py with DEBUG i is 6
+2020-04-17 00:25:07 from test.py with DEBUG summa is 21
+2020-04-17 00:25:07 from test.py with DEBUG i is 7
+2020-04-17 00:25:07 from test.py with DEBUG summa is 28
+2020-04-17 00:25:07 from test.py with DEBUG i is 8
+2020-04-17 00:25:07 from test.py with DEBUG summa is 36
+2020-04-17 00:25:07 from test.py with DEBUG i is 9
+2020-04-17 00:25:07 from test.py with DEBUG summa is 45
+2020-04-17 00:25:07 from test.py with INFO Job's done!
