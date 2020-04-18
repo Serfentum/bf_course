@@ -5,7 +5,7 @@ import logging
 # To turn logging off   - change logging level to something higher e.g. INFO
 logging.basicConfig(filename='my_log.log',
                     filemode='w',
-                    format='%(asctime): %(message)s',
+                    format='%(asctime)s: %(message)s',
                     datefmt='%Y-%m-%d %H:%M:%S',
                     level=logging.DEBUG)
 logger = logging.getLogger(__name__)
