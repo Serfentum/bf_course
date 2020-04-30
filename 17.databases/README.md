@@ -11,6 +11,7 @@
 * [браузер для sqlite](https://sqlitebrowser.org/dl/)
 * [туториал по sqlite](https://www.sqlitetutorial.net/)
 * [foreign keys](https://www.sqlitetutorial.net/sqlite-foreign-key/)
+* [cascades, обратите внимание на pragm'у](https://www.techonthenet.com/sqlite/foreign_keys/foreign_delete.php)
 * [критика обычного представления join'ов](https://habr.com/ru/post/448072/)
 * [возможный вариант визуализации join'ов](https://habr.com/ru/post/450528/)
 * [об индексах](https://www.sqlitetutorial.net/sqlite-index/)
